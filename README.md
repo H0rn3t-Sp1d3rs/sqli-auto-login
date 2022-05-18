@@ -10,7 +10,7 @@ Use at your own risk.
 
 <h2>Download</h2>
 
-📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Webdav-Apps/blob/main/Webdav.apk?raw=true">Download</a> the Webdav Apps.
+📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Webdav-Apps/blob/main/Webdav.apk?raw=true">Download</a> the sqli-auto-login.
 <br><br>
 
 
